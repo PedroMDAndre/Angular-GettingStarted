@@ -1,3 +1,4 @@
+import { HttpClient } from "@angular/common/http";
 import { Injectable } from "@angular/core";
 import { IProduct } from "./product"
 
@@ -5,6 +6,10 @@ import { IProduct } from "./product"
     providedIn: "root"
 })
 export class ProductService{
+    private productUrl = "api/product/products.json"
+
+    constructor(private http: HttpClient){}
+
     getProducts(): IProduct[] {
         return [
             {
