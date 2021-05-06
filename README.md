@@ -1,4 +1,8 @@
-# ApmNew
+# Course Description
+
+Hello! My name is Deborah Kurata, and welcome to Angular: Getting Started. In this course, you will learn how to create great web apps and stay up to date on the latest app development technologies, by coming up to speed quickly with Angular's components, templates, and services. You will get there by learning major topics like to set up your environment, learning about components, templates, and data binding and how they work together, discover how to build clean components with strongly-typed code, as well as building nested components and how to use dependency injection to inject the services you build and how to retrieve data using HTTP, navigation and routing. By the end of this course, you will be up to date on all the latest Angular knowledge and you will be able to use Angular to create great apps in the future. Before you begin, make sure you are already familiar with the basics of JavaScript, HTML, and CSS, and to get the most from this course, it’s helpful to have some exposure to object-oriented programming concepts. And after this course, you’ll be ready to move on to additional courses in the Angular Learning Path, including Angular CLI, Angular Forms, and beyond. I hope you’ll join me, and I look forward to helping you on your learning journey here at Pluralsight. 
+
+# Getting Started
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
 
